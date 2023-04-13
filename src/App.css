@@ -10,6 +10,7 @@
     background-color: #51a3e1;
     margin-top: 40px;
     padding: 30px;
+    
 }
 
 .sun{
@@ -19,17 +20,12 @@
     border-radius: 50%;
 }
 
-.nightSky {
-    width: 600px;
-    height: 400px;
-    background-color: #081d2c;
-    margin-top: 40px;
-    padding: 30px;
-}
 
-.moon {
-    width: 150px;
-    height: 150px;
-    background-color: #ffffff;
-    border-radius: 50%;
+
+.btn {
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #d9d1d1;
+    margin-top: 20px;
 }
